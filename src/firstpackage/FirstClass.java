@@ -6,7 +6,8 @@ public class FirstClass {
 		
 		System.out.println("First commit from local repository");
 		System.out.println("Second commit from local repository");
-		System.out.println("Third commit from local repository");
+		System.out.println("Ucuncu commitimiz local repositoryden");
+		System.out.println("First commit from remote repository");
 
 	}
 
